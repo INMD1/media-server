@@ -10,4 +10,4 @@ app.get("/", (req, res) => {
 });
 
 
-app.listen(3000, () => console.log("Sever_Start"));
+app.listen(3000, () => console.log("Starting media-server ver 0.0.1-echo"));
